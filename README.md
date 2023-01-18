@@ -23,7 +23,7 @@ Old repository: https://github.com/EleniVasilaki/Social-Network
 * Discover new opportunities for funding, collaborations and partnerships.
 
 ## Getting started
-To get started with Σocience, simply clone the repository and follow the steps below. Once you've done that, you can create an account and start exploring. 
+To get started with Σocience, simply clone the repository and follow the steps below. Once you've done that, you can create an account and start exploring. The app navigation is based on menus.
 
 - Go to the directory of the project in your local memory.
 - Copy the path of the .jar file.
