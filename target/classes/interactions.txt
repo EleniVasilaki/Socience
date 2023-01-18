@@ -1,0 +1,13 @@
+6,V\Qa`^WP^^,true,,false,false
+9,V\Qa`^WP^^,false,,false,true
+9,_N[LaMVLVV,false,,false,true
+6,^]KSKVO_R[,true,,false,false
+3,^]KSKVO_R[,false,,false,true
+3,SOPQ`TPNNP,false,,false,true
+7,SOPQ`TPNNP,true,,false,false
+7,[aXLZY]I`I,false,,false,true
+7,^]KSKVO_R[,true,,false,false
+2,UUJSW\_WIK,false,That could save coral reefs!,false,false
+2,`P^M^XV_TR,false,That was so interesting to read,false,false
+12,UUJSW\_WIK,true,Misinformation,false,true
+12,LQUIOZMIPY,true,,false,false

@@ -1,0 +1,11 @@
+1,Jenny,Moschopoulou,Economics,28,06,1996,Phd
+2,Iasonas,Nerantzakis,Technology,13,02,1989,Phd
+3,Eleni,Vassilaki,Medicine,01,07,2000,Msc
+4,Dimitris,Kontis,MarineBiology,15,11,1991,Bsc
+5,Angelos,Tzamarias,Informatics,10,09,1999,Bsc
+6,Chrysoula,Georgopoulou,Chemistry,20,08,2007,High School
+7,Georgia,Papadopoulou,AI,03,02,1992,Phd
+8,Socrates,Koumpardas,Astrophysics,12,12,1975,Msc
+9,Alexandros,Tzamouranis,Biotechnology,12,10,2001,Bsc
+10,Agathi,Tzouanopoulou,Criminology,04,04,2003,Msc
+12,John,Doe,Finance,12,12,2000,Bsc
