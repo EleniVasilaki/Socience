@@ -5,7 +5,7 @@
 
 Socience is a social media app designed specifically for the scientific community. It provides a platform for researchers, scientists, and academicians to share their findings, knowledge, and ideas with their peers and colleagues. With Σocience, users can create a profile, connect with other scientists and researchers in their field, share publications, posters, and presentations, join and participate in discussion groups and forums, follow the latest developments and trends in their field, and get notified of new research and opportunities. By using Σocience, scientists can stay up-to-date with the latest research and findings in their field, build their professional network, and expand their collaborations. With its simple and user-friendly interface, Socience makes it easy for scientists to share their work and increase their visibility and impact in the scientific community.
 
-Old repository: https://github.com/EleniVasilaki/Social-Network
+We made a new repository to build the project and upload the folders. The progress is saved to the [old repository](https://github.com/EleniVasilaki/Social-Network).
 
 ## Features
 * Create a profile and share your research interests and expertise.
