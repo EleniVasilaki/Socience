@@ -33,6 +33,8 @@ To run the .jar file do:
 ```bash
 java -jar "%PATH%\target\Socience-0.0.1-SNAPSHOT.jar"
 ```
+![image](https://user-images.githubusercontent.com/115191300/213157941-6a4f22f0-5758-46b4-b1a7-e83319fd0244.png)
+
 
 ## Contributing
 Σocience is an open source project and we welcome contributions from the community. If you would like to contribute to the development of Σocience, please visit our Github repository for more information. Thank you for choosing Σocience! We hope you enjoy using our app as much as we enjoyed building it.
