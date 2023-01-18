@@ -35,6 +35,13 @@ java -jar "%PATH%\target\Socience-0.0.1-SNAPSHOT.jar"
 ```
 ![image](https://user-images.githubusercontent.com/115191300/213157941-6a4f22f0-5758-46b4-b1a7-e83319fd0244.png)
 
+## How it works
+- The structure of the repository (check  [old repository](https://github.com/EleniVasilaki/Social-Network)
+where the progress is saved) is consisted of many branches.
+- One branch is matched to each person of the team and each person took care of different classes.
+- A part of the team was responsible for code reviews and use of tools where they ensured the smooth evolvement of the progress.
+- For data storage we used txt files which were filled using different methods (Differantiation by lines or by columns)
+- The .jar file is located in this repository among with the necessary files
 
 ## Contributing
 Σocience is an open source project and we welcome contributions from the community. If you would like to contribute to the development of Σocience, please visit our Github repository for more information. Thank you for choosing Σocience! We hope you enjoy using our app as much as we enjoyed building it.
